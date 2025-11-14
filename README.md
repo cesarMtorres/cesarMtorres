@@ -1,16 +1,39 @@
-### Hola, Soy Cesar Molina 👋
+# 👋 Hola, soy Cesar T. Molina
 
-<!--
-**cesarMtorres/cesarMtorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
 
-Here are some ideas to get you started:
+Soy **desarrollador backend** especializado en **PHP (Laravel)** y **Go**, con experiencia con sistemas de alto rendimiento y arquitectura limpia. También tengo conocimientos de **frontend** cuando el proyecto lo requiere.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+He contribuido a proyectos **open source**, tanto con código como con documentación y optimizaciones. Me interesa todo lo relacionado con **debugging avanzado** y automatizaciones
+
+---
+
+## 🛠️ Tecnologías que uso
+
+### **Backend**
+
+* PHP · Laravel ·
+* Go · gin
+* MySQL · PostgreSQL · Redis
+* Docker
+
+### **Frontend**
+
+* JavaScript
+* Vue.js
+* Livewire · Alpine.js
+
+### **Otros**
+
+* Linux · Git
+---
+
+## 🧩 Proyectos destacados
+
+* **Backoffice avanzado multirol**, con dashboards, sistemas de conciliación reportes, jobs, redis, emails y desarrollo full-stack.
+* **Contribuciones menores open source** en paquetes y herramientas para PHP y Laravel. eg: spatie, laravel framework
+---
+
+## 📚 Intereses actuales
+
+* Sistemas websockets, jobs usando laravel
